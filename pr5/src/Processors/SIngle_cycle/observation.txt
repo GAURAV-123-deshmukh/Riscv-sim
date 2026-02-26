@@ -1,0 +1,1 @@
+you can check that alway MemToRead == RegTOMem , so it is better to use only one signal
