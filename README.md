@@ -1,8 +1,3 @@
-Great — now that I fully understand your **project structure**, your **purpose**, your **pipeline + single‑cycle CPU simulator**, and the **role of each folder**, I can give you what you actually need:
-
-**A clean, structured README description for every major folder and file you showed**, written in simple, professional language.
-
-You can directly paste this into your README.
 
 ==================================================
 TOP‑LEVEL LAYOUT (pr5/)
